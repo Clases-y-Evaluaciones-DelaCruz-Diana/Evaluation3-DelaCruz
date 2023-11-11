@@ -1,0 +1,104 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +name","#country +code +iso2","#adm1 +name","#adm1 +code +iso","#adm1 +code +local","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4482,LROP,large_airport,"Henri Coandă International Airport",44.571111,26.085,314,EU,Romania,RO,"Ilfov County",RO-IF,IF,Bucharest,1,LROP,OTP,,http://www.bucharestairports.ro/en/,https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport,"BUH, Otopeni Airport, RoAF 90th Airlift Base",1675,2022-04-11T16:52:19+00:00
+4474,LRBS,medium_airport,"Băneasa International Airport",44.503201,26.1021,297,EU,Romania,RO,"Bucharest (municipality)",RO-B,B,Bucharest,1,LRBS,BBU,,http://www.baneasa-airport.ro/,https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport,"BUH, Aurel Vlaicu International Airport",750,2023-09-19T07:01:28+00:00
+4476,LRCL,medium_airport,"Cluj-Napoca International Airport",46.785198,23.686199,1039,EU,Romania,RO,"Cluj County",RO-CJ,CJ,Cluj-Napoca,1,LRCL,CLJ,,http://www.airportcluj.ro/,https://en.wikipedia.org/wiki/Cluj-Napoca_International_Airport,"Someşeni Airport",750,2020-01-14T01:41:36+00:00
+4488,LRTR,medium_airport,"Timişoara Traian Vuia Airport",45.809898376464844,21.337900161743164,348,EU,Romania,RO,"Timiş County",RO-TM,TM,Timişoara,1,LRTR,TSR,,http://www.aerotim.ro/,https://en.wikipedia.org/wiki/Traian_Vuia_International_Airport,"RoAF 93rd Air Base, Giarmata Airport, Temesvár, Temeschburg, Temeswar, Temeschwar, Тимишоара, Темишвар, Temišvar, Banat",750,2008-06-13T14:30:04+00:00
+4475,LRCK,medium_airport,"Mihail Kogălniceanu International Airport",44.36220169067383,28.488300323486328,353,EU,Romania,RO,"Constanţa County",RO-CT,CT,Constanţa,1,LRCK,CND,,,https://en.wikipedia.org/wiki/Mihail_Kog%C4%83lniceanu_International_Airport,"Mihail Kogalniceanu, RoAF 57th Air Base",750,2008-06-13T14:30:04+00:00
+4483,LRSB,medium_airport,"Sibiu International Airport",45.78559875488281,24.091299057006836,1496,EU,Romania,RO,"Sibiu County",RO-SB,SB,Sibiu,1,LRSB,SBZ,,http://www.sibiuairport.ro/,https://en.wikipedia.org/wiki/Sibiu_International_Airport,,750,2008-06-13T14:30:04+00:00
+4480,LRIA,medium_airport,"Iaşi Airport",47.180278,27.620833,411,EU,Romania,RO,"Iaşi County",RO-IS,IS,Iaşi,1,LRIA,IAS,,http://www.aeroport.ro/,https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport,"Iasi, Jassy",750,2021-12-27T06:01:44+00:00
+4485,LRSV,medium_airport,"Suceava Stefan cel Mare Airport",47.6875,26.35409927368164,1375,EU,Romania,RO,"Suceava County",RO-SV,SV,Suceava,1,LRSV,SCV,,http://www.aeroportsuceava.ro/index_en.html,https://en.wikipedia.org/wiki/Suceava_Airport,,750,2008-06-13T14:30:04+00:00
+4479,LRCV,medium_airport,"Craiova Airport",44.3181,23.888599,626,EU,Romania,RO,"Dolj County",RO-DJ,DJ,Craiova,1,LRCV,CRA,,http://www.aeroportcraiova.ro/,https://en.wikipedia.org/wiki/Craiova_Airport,,500,2021-05-29T06:37:50+00:00
+4487,LRTM,medium_airport,"Transilvania Târgu Mureş International Airport",46.46770095825195,24.412500381469727,963,EU,Romania,RO,"Mureş County",RO-MS,MS,"Târgu Mureş",1,LRTM,TGM,,,https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F_International_Airport,"Vidrasau, Vidrasău",750,2008-06-13T14:30:04+00:00
+4472,LRBC,medium_airport,"Bacău Airport",46.52190017700195,26.91029930114746,607,EU,Romania,RO,"Bacău County",RO-BC,BC,Bacău,1,LRBC,BCM,,http://www.bacauairport.ro/,https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport,"Bacau, RoAF 95th Air Base",750,2008-06-13T14:30:04+00:00
+4486,LRTC,medium_airport,"Tulcea Danube Delta Airport",45.0625,28.7143,200,EU,Romania,RO,"Tulcea County",RO-TL,TL,Tulcea,0,LRTC,TCE,,,https://en.wikipedia.org/wiki/Tulcea_Airport,"Cataloi Airport, Aeroportul Delta Dunării Tulcea",250,2021-03-19T13:48:15+00:00
+4471,LRAR,medium_airport,"Arad International Airport",46.17660140991211,21.261999130249023,352,EU,Romania,RO,"Arad County",RO-AR,AR,Arad,1,LRAR,ARW,,,https://en.wikipedia.org/wiki/Arad_International_Airport,,750,2008-06-13T14:30:04+00:00
+4473,LRBM,medium_airport,"Maramureș International Airport",47.660598,23.467252,605,EU,Romania,RO,"Maramureş County",RO-MM,MM,"Baia Mare",1,LRBM,BAY,,https://aimm.eu/,https://en.wikipedia.org/wiki/Maramureș_Airport,,750,2021-08-01T05:03:55+00:00
+4481,LROD,medium_airport,"Oradea International Airport",47.025299072265625,21.90250015258789,465,EU,Romania,RO,"Bihor County",RO-BH,BH,Oradea,1,LROD,OMR,,,https://en.wikipedia.org/wiki/Oradea_International_Airport,,750,2008-06-13T14:30:04+00:00
+324128,LRFL,small_airport,"Floreni Airfield",47.363094,25.210346,,EU,Romania,RO,"Suceava County",RO-SV,SV,Floreni,0,LRFL,,,,,,50,2020-05-03T02:44:42+00:00
+313613,RO-0003,small_airport,"Aerodrom Fratauti",47.885278,25.899167,1380,EU,Romania,RO,"Suceava County",RO-SV,SV,Rădăuți,0,,,,http://bucovinaflyclub.ro/,,"Aerodrom Fratauti",50,2019-08-18T07:41:11+00:00
+30501,LRTZ,small_airport,"Tuzla Aerodrome",43.984395,28.609682,161,EU,Romania,RO,"Constanţa County",RO-CT,CT,Tuzla,0,LRTZ,,,,,,50,2021-12-30T14:54:41+00:00
+4478,LRCT,medium_airport,"Câmpia Turzii Air Base",46.50230026245117,23.885900497436523,1083,EU,Romania,RO,"Cluj County",RO-CJ,CJ,"Câmpia Turzii",0,LRCT,,,http://www.roaf.ro/en/unitati/bz71_en.php,https://en.wikipedia.org/wiki/RoAF_71st_Air_Base,"Campia Turzii, Luna Airport, RoAF 71st Air Base",250,2008-06-13T14:30:04+00:00
+4477,LRCS,medium_airport,"Caransebeş Airport",45.41999816894531,22.253299713134766,866,EU,Romania,RO,"Caras-Severin County",RO-CS,CS,Caransebeş,0,LRCS,CSB,,,https://en.wikipedia.org/wiki/Caransebe%C5%9F_Airport,"Caransebes, Reşiţa",250,2008-06-13T14:30:04+00:00
+315658,RO-0009,small_airport,"Aerodromul Charlie Bravo Siria",46.26433,21.604521,,EU,Romania,RO,"Arad County",RO-AR,AR,Arad,0,LRCB,,,,,,50,2023-08-23T07:20:00+00:00
+313619,RO-0004,small_airport,"Ineu ""King's Land"" field",47.079167,22.100278,498,EU,Romania,RO,"Bihor County",RO-BH,BH,,0,,,,http://www.fly2romania.com/,,,50,2022-10-30T19:31:31+00:00
+315478,RO-0005,small_airport,"Aerodrom Sălicea",46.6830919,23.5076486,,EU,Romania,RO,"Cluj County",RO-CJ,CJ,,0,,,,,,,50,2015-09-18T15:57:35+00:00
+354838,RO-0054,small_airport,"Iaşi Sud",47.15778,27.6375,200,EU,Romania,RO,"Iaşi County",RO-IS,IS,,0,,,,,,,50,2022-06-07T13:18:38+00:00
+311939,RO-0002,small_airport,Banesti,45.068671,25.80637,,EU,Romania,RO,"Prahova County",RO-PH,PH,,0,,,,,,,50,2016-04-29T07:14:28+00:00
+300163,LRCN,small_airport,"Clinceni Airfield",44.35902,25.93196,,EU,Romania,RO,"Ilfov County",RO-IF,IF,Clinceni,0,LRCN,,,,,,50,2022-04-11T16:50:54+00:00
+315483,RO-0007,small_airport,"Aerodromul Săulești",45.863784,22.965066,,EU,Romania,RO,"Hunedoara County",RO-HD,HD,Deva,0,LRDV,,,,,,50,2022-10-31T09:30:58+00:00
+315893,RO-0010,small_airport,"Ghimbav Aerodrome",45.699386,25.528414,1736,EU,Romania,RO,"Braşov County",RO-BV,BV,Ghimbav,0,,,,,,,50,2023-05-29T06:08:24+00:00
+309711,lrpv,small_airport,"Aerodromul Ploiești -Strejnic",44.92367,25.963418,240,EU,Romania,RO,"Prahova County",RO-PH,PH,Ploiești,0,LRPW,,,https://web.archive.org/web/20160507200158/http://ploiesti.aeroclubulromaniei.ro/aerodromul.html,,"Gheorghe Valentin Bibescu",50,2023-03-01T11:33:16+00:00
+320577,RO-0016,small_airport,"Aerial Club Vădeni",45.364129,27.938835,,EU,Romania,RO,"Brăila County",RO-BR,BR,Vădeni,0,,,,http://aerial.ro,,,50,2016-09-29T00:39:14+00:00
+355259,RO-0064,heliport,"Crystal Tower Bucharest Helipad",44.45222,26.09506,314,EU,Romania,RO,"Bucharest (municipality)",RO-B,B,Bucharest,0,,,,,,,0,2022-06-28T02:40:10+00:00
+4484,LRSM,medium_airport,"Satu Mare Airport",47.70330047607422,22.885700225830078,405,EU,Romania,RO,"Satu Mare County",RO-SM,SM,"Satu Mare",1,LRSM,SUJ,,,https://en.wikipedia.org/wiki/Satu_Mare_International_Airport,,750,2008-06-13T14:30:04+00:00
+333670,LROV,medium_airport,"Brașov-Ghimbav International Airport (U.C.)",45.70558,25.522871,1740,EU,Romania,RO,"Braşov County",RO-BV,BV,"Brașov (Ghimbav)",1,LRBV,GHV,,,https://en.wikipedia.org/wiki/Brașov-Ghimbav_International_Airport,"Aeroportul Internațional Brașov-Ghimbav",500,2023-06-07T02:00:59+00:00
+5670,LR82,medium_airport,"Boboc Air Base",45.2164,26.9786,344,EU,Romania,RO,"Buzău County",RO-BZ,BZ,Boboc,0,LRBO,,,,,"RoAF Aurel Vlaicu Flight School",250,2017-10-21T01:27:14+00:00
+5668,LR80,medium_airport,"Feteşti Air Base",44.3923,27.7267,180,EU,Romania,RO,"Ialomiţa County",RO-IL,IL,Feteşti,0,LRFT,,,http://www.roaf.ro/en/unitati/bz86_en.php,https://en.wikipedia.org/wiki/RoAF_86th_Air_Base,"Fetesti, Cocargeaua Airport, RoAF 86th Air Base",250,2017-10-19T02:41:42+00:00
+5667,LR79,medium_airport,"Ianca Air Base",45.158699,27.430901,131,EU,Romania,RO,"Brăila County",RO-BR,BR,Ianca,0,,,,,,,250,2017-10-21T01:25:55+00:00
+323634,RO-0026,small_airport,"Salonti Airstrip",45.9416179,23.7606823,,EU,Romania,RO,"Alba County",RO-AB,AB,,0,,,,,,,50,2017-06-03T23:57:41+00:00
+430342,RO-0066,small_airport,"Fibiș Airstrip",45.96196,21.45735,,EU,Romania,RO,"Arad County",RO-AR,AR,,0,,,,,,,50,2022-10-04T07:46:48+00:00
+354792,RO-0049,small_airport,"Luncani Airfield",46.48167,23.93139,1010,EU,Romania,RO,"Cluj County",RO-CJ,CJ,,0,,,,,,"Skydive Transilvania",50,2022-06-06T02:21:28+00:00
+354801,RO-0050,small_airport,"Dezmir Glider Field",46.77917,23.71194,1010,EU,Romania,RO,"Cluj County",RO-CJ,CJ,,0,,,,,,,50,2022-06-06T06:38:53+00:00
+354879,RO-0057,small_airport,"Luica Airfield",44.262213,26.651137,170,EU,Romania,RO,"Călăraşi County",RO-CL,CL,,0,,,,,,,50,2022-06-10T10:42:40+00:00
+346654,RO-0032,small_airport,"Aerodrom Ciocănești",44.581076,25.853051,,EU,Romania,RO,"Dâmboviţa County",RO-DB,DB,,0,,,,,,,50,2021-07-27T03:04:09+00:00
+354784,RO-0046,small_airport,"Ilfoveni Airfield",44.794536,25.589261,659,EU,Romania,RO,"Dâmboviţa County",RO-DB,DB,,0,,,,http://aerogetic.ro,,,50,2022-06-05T01:54:12+00:00
+354771,RO-0044,small_airport,"Predeşti Airfield",44.3743,23.618503,300,EU,Romania,RO,"Dolj County",RO-DJ,DJ,,0,,,,,,,50,2022-06-04T06:54:26+00:00
+354791,RO-0048,small_airport,"Mihăița Airstrip",44.39167,23.67083,285,EU,Romania,RO,"Dolj County",RO-DJ,DJ,,0,,,,,,,50,2022-06-06T02:14:46+00:00
+354910,RO-0060,small_airport,"Sânsimion Airfield",46.265043,25.91516,2170,EU,Romania,RO,"Harghita County",RO-HR,HR,,0,,,,,,,50,2022-06-11T06:12:16+00:00
+354906,RO-0059,small_airport,"Copalnic-Manastur Airfield",47.509222,23.68809,815,EU,Romania,RO,"Maramureş County",RO-MM,MM,,0,,,,,,,50,2022-06-11T01:32:37+00:00
+346802,RO-0033,small_airport,"Aerodromul Girov",46.961818,26.485076,,EU,Romania,RO,"Neamţ County",RO-NT,NT,,0,,,,,,,50,2021-08-01T05:51:43+00:00
+354876,RO-0055,small_airport,"Dumbrava Roșie Airfield",46.898853,26.434307,992,EU,Romania,RO,"Neamţ County",RO-NT,NT,,0,,,,,,,50,2022-06-10T04:24:35+00:00
+354877,RO-0056,small_airport,Dărmănești,47.721693,26.118418,975,EU,Romania,RO,"Suceava County",RO-SV,SV,,0,,,,,,,50,2022-06-10T05:19:56+00:00
+315660,LRPT,small_airport,"Aerodromul Geamăna",44.8162779,24.8941665,,EU,Romania,RO,"Argeş County",RO-AG,AG,"Aerodromul Geamăna",0,LRPT,,,,,"Aerodromul Geamăna",50,2015-10-06T11:21:13+00:00
+320214,RO-0014,small_airport,"Aerodromul Alexeni",44.704857,26.720739,,EU,Romania,RO,"Ialomiţa County",RO-IL,IL,Alexeni,0,,,,,,,50,2020-09-08T20:47:50+00:00
+354880,RO-0058,small_airport,"Casa Teo Airstrip",45.02028,25.85611,921,EU,Romania,RO,"Prahova County",RO-PH,PH,Băicoi,0,,,,https://casa-teo.ro/,,,50,2022-06-10T10:56:37+00:00
+333337,LRBN,small_airport,"Bistrița Airfield",47.158575,24.552311,,EU,Romania,RO,"Bistriţa-Năsăud County",RO-BN,BN,Bistrița,0,LRBN,,,,,,50,2020-02-15T04:26:36+00:00
+354773,RO-0045,small_airport,"Aerodrom Barza Târgu-Jiu",45.00333,23.33389,667,EU,Romania,RO,"Gorj County",RO-GJ,GJ,Bucureasa,0,,,,,,,50,2022-06-04T08:44:49+00:00
+321507,RO-0020,small_airport,"Aerodromul Buziaş",45.654166,21.580124,,EU,Romania,RO,"Timiş County",RO-TM,TM,Buziaş,0,,,,,,,50,2020-09-08T20:42:49+00:00
+315901,LRCD,small_airport,"Aerodromul Măgura",45.737222,24.165278,1524,EU,Romania,RO,"Sibiu County",RO-SB,SB,Cisnădie,0,LRCD,,,https://www.facebook.com/pages/category/Airport/AERODROMUL-MAGURA-219224911475626/,,"magura, romania, avgas, skydiving",50,2020-07-15T01:15:14+00:00
+320903,RO-0019,small_airport,"Comana Airstrip",44.200367,26.139661,168,EU,Romania,RO,"Giurgiu County",RO-GR,GR,Comana,0,,,,,,,50,2023-05-17T16:03:03+00:00
+317422,RO-0012,small_airport,"Costinești Aerodrome",43.926686,28.629548,66,EU,Romania,RO,"Constanţa County",RO-CT,CT,Costinești,0,,,,,,,50,2021-12-30T14:54:21+00:00
+320207,RO-0013,small_airport,"Aeroclubul Balta-Verde",44.285839,23.791537,,EU,Romania,RO,"Dolj County",RO-DJ,DJ,Craiova,0,LRCW,,,,,,50,2020-09-08T20:46:26+00:00
+329751,RO-0031,small_airport,"Aerodrom Crasna",47.1679879,22.8559184,,EU,Romania,RO,"Sălaj County",RO-SJ,SJ,Crasna,0,,,,,,,50,2018-11-27T10:55:09+00:00
+5669,LR81,closed,"Deveselu Air Base",44.0773010254,24.4164009094,289,EU,Romania,RO,"Olt County",RO-OT,OT,Deveselu,0,,,,,,LR81,50,2009-09-10T15:13:29+00:00
+322374,RO-0023,small_airport,"Aerodrom Drobeta",44.580556,22.844444,,EU,Romania,RO,"Mehedinţi County",RO-MH,MH,Drobeta,0,,,,http://www.aeroclubuldrobeta.ro/,,,50,2020-09-08T20:44:32+00:00
+351104,RO-0041,small_airport,"Dunavățu de Jos Aerodrome",44.985719,29.213128,43,EU,Romania,RO,"Tulcea County",RO-TL,TL,"Dunavățu de Jos",0,,,,,,,50,2021-12-30T15:06:18+00:00
+354824,RO-0051,small_airport,"Gagu Airfield",44.610695,26.260629,265,EU,Romania,RO,"Ilfov County",RO-IF,IF,Gagu,0,,,,,,,50,2022-06-07T06:05:28+00:00
+325342,RO-0028,small_airport,"Ghindari Airfield",46.5189842,24.943781,,EU,Romania,RO,"Mureş County",RO-MS,MS,Ghindari,0,,,,,,,50,2017-10-31T13:27:31+00:00
+322151,RO-0022,small_airport,"Lăzarea Airstrip",46.7261196,25.5141861,,EU,Romania,RO,"Harghita County",RO-HR,HR,Lăzarea,0,,,,,,,50,2017-02-13T05:04:48+00:00
+321739,RO-0021,small_airport,"Fazi Airstrip",46.347099,25.873769,2958,EU,Romania,RO,"Harghita County",RO-HR,HR,Leliceni,0,,,,,,LRLE,50,2021-03-18T21:44:47+00:00
+430040,RO-0065,small_airport,"Letca Nouă Airfield",44.22531,25.75088,282,EU,Romania,RO,"Giurgiu County",RO-GR,GR,"Letca Nouă",0,,,,,,,50,2023-05-17T16:04:20+00:00
+323671,RO-0027,small_airport,"Aerodromul Ciceu-Andras",46.3927664,25.7776699,,EU,Romania,RO,"Harghita County",RO-HR,HR,"Miercurea Ciuc",0,,,,,,,50,2017-06-08T02:59:55+00:00
+354911,RO-0061,small_airport,"Mugeni Airfield",46.249281,25.222732,1475,EU,Romania,RO,"Harghita County",RO-HR,HR,Mugeni,0,,,,,,,50,2022-06-11T06:29:37+00:00
+354826,RO-0053,small_airport,"Plopul Airstrip",45.00556,29.1,12,EU,Romania,RO,"Tulcea County",RO-TL,TL,Murighiol,0,,,,https://moa-avio.ro/aerodrom/,,,50,2022-06-07T07:08:54+00:00
+348582,RO-0034,small_airport,"Odorhei Airfield",46.32548,25.28201,,EU,Romania,RO,"Harghita County",RO-HR,HR,"Odorheiu Secuiesc",0,,,,,,,50,2021-10-11T05:20:00+00:00
+315897,RO-0011,small_airport,"Prejmer Aerodrome",45.697383,25.783453,1762,EU,Romania,RO,"Braşov County",RO-BV,BV,Prejmer,0,,,,http://www.aerodromprejmer.ro/,,,50,2023-11-07T10:10:14+00:00
+354933,RO-0062,small_airport,"Aripi  Ramnicene Airstrip",45.380489,27.074475,335,EU,Romania,RO,"Buzău County",RO-BZ,BZ,"Ramnicu Sarat",0,,,,,,,50,2022-06-13T04:52:15+00:00
+322519,RO-0024,small_airport,"Piatra Craiului Aerodrome",45.56553,25.396588,2198,EU,Romania,RO,"Braşov County",RO-BV,BV,Râșnov,0,,,,http://time2fly.ro,,,50,2021-03-12T15:30:12+00:00
+507344,RO-0067,small_airport,Remetea,46.8188,25.40946,,EU,Romania,RO,"Harghita County",RO-HR,HR,Remetea,0,LRHR,,,,,,50,2023-07-19T07:48:20+00:00
+354770,RO-0001,small_airport,"Zanesti Airfield",46.84667,26.55611,947,EU,Romania,RO,"Neamţ County",RO-NT,NT,Roznov,0,,,,,,,50,2022-06-04T06:36:13+00:00
+315482,RO-0006,small_airport,"Sânpetru-Brașov Aerodrome",45.721036,25.633707,1716,EU,Romania,RO,"Braşov County",RO-BV,BV,Sânpetru,0,LRSP,,,,,"Aerodromul Sânpetru-Brașov",50,2021-03-12T15:26:58+00:00
+315486,RO-0008,small_airport,"Aeroportul Sportiv Elie Carafoli",46.53441,24.534645,,EU,Romania,RO,"Mureş County",RO-MS,MS,"Târgu Mureș",0,LRMS,,,,,,50,2022-12-15T13:24:57+00:00
+315986,LRPH,small_airport,"Şirna Airfield",44.783792,25.983205,,EU,Romania,RO,"Prahova County",RO-PH,PH,Tăriceni,0,LRPH,,,,,,50,2021-05-15T05:21:30+00:00
+322817,RO-0025,small_airport,"Aerodromul Topoloveni",44.7966246,25.0896598,,EU,Romania,RO,"Argeş County",RO-AG,AG,Topoloveni,0,,,,,,,50,2017-04-22T15:15:02+00:00
+354785,RO-0047,small_airport,"Fly Friends Airfield",44.491637,25.584884,415,EU,Romania,RO,"Giurgiu County",RO-GR,GR,"Vânătorii Mici",0,,,,,,"Fly Friends",50,2023-05-17T16:07:30+00:00
+335080,RO-0029,heliport,"Unitatea Specială de Aviație București",44.504525,26.098452,,EU,Romania,RO,"Bucharest (municipality)",RO-B,B,,0,,,,,,,0,2020-07-11T00:46:37+00:00
+354772,LRBK,heliport,"Moara Vlasiei Heliport",44.63278,26.1975,292,EU,Romania,RO,"Ilfov County",RO-IF,IF,,0,LRBK,,,,,,0,2022-06-04T08:10:34+00:00
+320252,RO-0015,closed,"Siliștea Gumești Air Base",44.370911,24.983528,,EU,Romania,RO,"Teleorman County",RO-TR,TR,,0,,,,,,,0,2016-09-12T09:47:01+00:00
+355028,RO-0063,heliport,"Râmnicu Vâlcea Heliport",45.05704,24.342635,,EU,Romania,RO,"Vâlcea County",RO-VL,VL,,0,,,,,,,0,2022-06-17T04:41:44+00:00
+354944,LRFB,heliport,"Fagu Balc Heliport",47.3425,22.575,599,EU,Romania,RO,"Bihor County",RO-BH,BH,"Almasu Mare",0,LRFB,,,,,,0,2022-06-14T01:05:52+00:00
+320684,RO-0018,heliport,"Cobrex Heliport",45.657735,25.55701,1778,EU,Romania,RO,"Braşov County",RO-BV,BV,Brașov,0,,,,http://cobrexhelicopters.ro,,,0,2021-03-12T15:29:04+00:00
+342108,RO-0030,heliport,"Telecabina Heliport",45.5883,25.5508,3399,EU,Romania,RO,"Braşov County",RO-BV,BV,Brașov,0,,,,,,,0,2021-03-12T15:33:24+00:00
+351105,RO-0042,closed,"Chilia Veche Aerodrome",45.41911,29.31393,6,EU,Romania,RO,"Tulcea County",RO-TL,TL,"Chilia Veche",0,,,,,,,0,2022-01-03T05:51:47+00:00
+351099,RO-0036,heliport,"SMURD Heliport",44.141804,28.591412,194,EU,Romania,RO,"Constanţa County",RO-CT,CT,Constanța,0,,,,,,,0,2021-12-30T14:56:02+00:00
+351100,RO-0037,heliport,"King Carol I Lighthouse Heliport",44.15982,28.65775,3,EU,Romania,RO,"Constanţa County",RO-CT,CT,Constanța,0,,,,,,,0,2021-12-30T14:57:49+00:00
+351101,RO-0038,heliport,"Constanța Naval Heliport",44.15778,28.66116,3,EU,Romania,RO,"Constanţa County",RO-CT,CT,Constanța,0,,,,,,,0,2021-12-30T14:58:41+00:00
+351102,RO-0039,heliport,"Mamaia Heliport",44.23659,28.62099,3,EU,Romania,RO,"Constanţa County",RO-CT,CT,Constanța,0,,,,,,,0,2021-12-30T15:00:40+00:00
+354825,RO-0052,heliport,"Heliport Dogaru",47.05833,22.07806,,EU,Romania,RO,"Bihor County",RO-BH,BH,Fughiu,0,,,,http://www.flycompany.ro,,,0,2022-10-30T19:30:57+00:00
+351107,RO-0043,heliport,"Damen Shipyard Heliport",45.44382,28.0831,23,EU,Romania,RO,"Galaţi County",RO-GL,GL,Galați,0,,,,,,,0,2021-12-30T15:12:41+00:00
+324127,LRBG,heliport,"IAR Ghimbav Heliport",45.6873,25.527073,1762,EU,Romania,RO,"Braşov County",RO-BV,BV,Ghimbav,0,LRBG,,,,,"Mir Aero",0,2022-01-12T17:23:23+00:00
+351103,RO-0040,heliport,"Năvodari Heliport",44.32903,28.65699,1,EU,Romania,RO,"Constanţa County",RO-CT,CT,Năvodari,0,,,,,,,0,2021-12-30T15:01:57+00:00
+354769,LRCC,heliport,"Oituz Heliport",46.21056,26.60278,1094,EU,Romania,RO,"Bacău County",RO-BC,BC,Oituz,0,LRCC,,,,,,0,2022-06-04T06:33:20+00:00
+351076,RO-0035,heliport,"Caragea Dermen Heliport",44.23193,28.58523,30,EU,Romania,RO,"Constanţa County",RO-CT,CT,Ovidiu,0,,,,,,,0,2021-12-30T11:04:14+00:00
+320578,RO-0017,closed,"Aerodrom Cioca",45.786876,21.190265,,EU,Romania,RO,"Timiş County",RO-TM,TM,Timisoara,0,,,,,,,0,2021-06-05T06:13:04+00:00
